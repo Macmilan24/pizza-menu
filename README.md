@@ -30,6 +30,7 @@ To run this project locally, follow these steps:
 - JavaScript
 - HTML
 - CSS
+- Nodejs
 
 ## Contributing
 
